@@ -7,10 +7,9 @@
 </p>
 
 Astra Interactive creates:
-- [x] Spigot/Paper plugin of any difficulty using Kotlin
-- [x] Minecraft Server Setup for your needs
-- [x] Web sites(For servers)
-- [x] Android applications(For servers)
+- [x] Spigot/Paper plugin any difficulty using Kotlin
+- [x] Web dev
+- [x] Android applications
 
-Example of our work:
+Server with Astra libs, utils and plugins:
 - [EmpireProjekt](https://EmpireProjekt.ru)
