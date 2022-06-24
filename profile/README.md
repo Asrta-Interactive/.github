@@ -11,5 +11,8 @@ Astra Interactive creates:
 - [x] Web dev
 - [x] Android applications
 
-Server with Astra libs, utils and plugins:
+Portfolio:
 - [EmpireProjekt](https://EmpireProjekt.ru)
+- [AstraInteractive](https://AstraInteractive.ru)
+- [AstraLearner](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
+- [AstraMarket](https://www.spigotmc.org/resources/astra-market.99114/)
