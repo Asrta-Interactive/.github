@@ -16,3 +16,4 @@ Portfolio:
 - [AstraInteractive](https://AstraInteractive.ru)
 - [AstraLearner](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
 - [AstraMarket](https://www.spigotmc.org/resources/astra-market.99114/)
+- [AstraRating](https://www.spigotmc.org/resources/simple-rating.103317/)
