@@ -18,3 +18,4 @@ Portfolio:
 - [AstraMarket](https://www.spigotmc.org/resources/astra-market.99114/)
 - [AstraRating](https://www.spigotmc.org/resources/simple-rating.103317/)
 - [AstraTemplate](https://www.spigotmc.org/resources/astra-template.103383/)
+- [AstraSync](https://github.com/Astra-Interactive/AstraSync)
