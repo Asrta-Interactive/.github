@@ -19,3 +19,5 @@ Portfolio:
 - [AstraRating](https://www.spigotmc.org/resources/simple-rating.103317/)
 - [AstraTemplate](https://www.spigotmc.org/resources/astra-template.103383/)
 - [AstraSync](https://github.com/Astra-Interactive/AstraSync)
+
+\* Not a real organization - just a place to store open-source code for Spigot Development
