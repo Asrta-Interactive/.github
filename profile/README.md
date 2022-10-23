@@ -3,21 +3,55 @@
   Hi there 👋 and welcome to Astra Interactive
 </h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/93258040?s=400&u=ccad2decf1d69cd54ee876dd140bf7d0b1ee1996&v=4" alt="Sublime's custom image"/>
+    <img src="https://astrainteractive.ru/static/media/logo.690661b3ac9b83328bee627e0d18ace5.svg" alt="logo" width="128">
+</p>
+<p align="center">
+    <a href="https://discord.gg/8fEzV2TDS2">
+        <img alt="discord" src="https://img.shields.io/badge/Discord-AstraInteractive-1B76CA"/>
+    </a>  
 </p>
 
-Astra Interactive creates:
-- [x] Spigot/Paper plugin any difficulty using Kotlin
-- [x] Web dev
-- [x] Android applications
+## Want to contribute?
+Currently I don't have CONTRIBUTING.md, so you'll just need to foollow code style in specific plugin
+## Want to create plugin?
+Contact me on [Astra Interactive discord channel](https://discord.gg/8fEzV2TDS2)
 
-Portfolio:
-- [EmpireProjekt](https://EmpireProjekt.ru)
-- [AstraInteractive](https://AstraInteractive.ru)
-- [AstraLearner](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
-- [AstraMarket](https://www.spigotmc.org/resources/astra-market.99114/)
-- [AstraRating](https://www.spigotmc.org/resources/simple-rating.103317/)
-- [AstraTemplate](https://www.spigotmc.org/resources/astra-template.103383/)
-- [AstraSync](https://github.com/Astra-Interactive/AstraSync)
+## Portfolio:
+
+#### AstraLearner
+* Most ambitious project. Android application, which will help you to learn foreign words
+* [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
+* Source will be available  as soon as I end refactoring
+
+#### AstraLibs
+* Open source Spigot library, which allows to create spigot plugins faster and easier
+* [Source](https://github.com/Astra-Interactive/AstraLibs)
+
+#### AstraAuctions
+* Free and open source auctions Spigot plugin 
+* [Source](https://github.com/Astra-Interactive/AstraAuctions)
+* [Spigot](https://www.spigotmc.org/resources/astra-market.99114/)
+
+#### AstraRating
+* Free and open source player rating Spigot plugin
+* [Source](https://github.com/Astra-Interactive/AstraRating)
+* [Spigot](https://www.spigotmc.org/resources/simple-rating.103317/)
+
+#### AstraSync - [BETA]
+* Free and open source player multi-server synchronization plugin
+* [Source](https://github.com/Astra-Interactive/AstraSync)
+
+#### AstraClans - [BETA]
+* Free and open source player Clans spigot plugin
+* [Source](https://github.com/Astra-Interactive/AstraClans)
+
+#### AstraTemplate
+* Free and open source template for spigot plugin creation
+* [Source](https://github.com/Astra-Interactive/AstraTemplate)
+* [Spigot](https://www.spigotmc.org/resources/astra-template.103383/)
+
+
+#### [EmpireSMP](https://empireprojekt.ru/)
+* Minecraft SMP server with lot of self-written plugins
 
 \* Not a real organization - just a place to store open-source code for Spigot Development
