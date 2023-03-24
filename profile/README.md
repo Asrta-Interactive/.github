@@ -37,13 +37,13 @@ Contact me on [Astra Interactive discord channel](https://discord.gg/8fEzV2TDS2)
 * [Source](https://github.com/Astra-Interactive/AstraRating)
 * [Spigot](https://www.spigotmc.org/resources/simple-rating.103317/)
 
-#### AstraSync - [BETA]
+#### SynK - [BETA]
 * Free and open source player multi-server synchronization plugin
-* [Source](https://github.com/Astra-Interactive/AstraSync)
+* [Source](https://github.com/Astra-Interactive/SynK)
 
-#### AstraClans - [BETA]
+#### KapitalystiK - [BETA]
 * Free and open source player Clans spigot plugin
-* [Source](https://github.com/Astra-Interactive/AstraClans)
+* [Source](https://github.com/Astra-Interactive/KapitalystiK)
 
 #### AstraTemplate
 * Free and open source template for spigot plugin creation
