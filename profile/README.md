@@ -24,7 +24,6 @@ Contact me on [Astra Interactive discord channel](https://discord.gg/8fEzV2TDS2)
 #### AstraLearner
 * Most ambitious project. Android application, which will help you to learn foreign words
 * [GooglePlay](https://play.google.com/store/apps/details?id=com.makeevrserg.astralearner)
-* Source will be available  as soon as I end refactoring
 
 #### AstraLibs
 * Open source Spigot library, which allows to create spigot plugins faster and easier
@@ -40,19 +39,12 @@ Contact me on [Astra Interactive discord channel](https://discord.gg/8fEzV2TDS2)
 * [Source](https://github.com/Astra-Interactive/AstraRating)
 * [Spigot](https://www.spigotmc.org/resources/simple-rating.103317/)
 
-#### SynK - [BETA]
-* Free and open source player multi-server synchronization plugin
-* [Source](https://github.com/Astra-Interactive/SynK)
-
-#### KapitalystiK - [BETA]
-* Free and open source player Clans spigot plugin
-* [Source](https://github.com/Astra-Interactive/KapitalystiK)
-
 #### AstraTemplate
 * Free and open source template for spigot plugin creation
 * [Source](https://github.com/Astra-Interactive/AstraTemplate)
 * [Spigot](https://www.spigotmc.org/resources/astra-template.103383/)
 
+#### More plugins in repo
 
 #### [EmpireSMP](https://empireprojekt.ru/)
 * Minecraft SMP server with lot of self-written plugins
