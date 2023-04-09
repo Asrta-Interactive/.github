@@ -11,6 +11,9 @@
     </a>  
 </p>
 
+## Support us
+You can support us financially by donating on [BoostY](https://boosty.to/empireprojekt/donate)
+
 ## Want to contribute?
 Currently I don't have CONTRIBUTING.md, so you'll just need to foollow code style in specific plugin
 ## Want to create plugin?
